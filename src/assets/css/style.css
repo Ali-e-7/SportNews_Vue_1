@@ -1,0 +1,313 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    direction: rtl;
+}
+@font-face {
+      font-family: IranSans;
+      src: url("../Fonts/IRANSans/IRANSans-web.eot");
+      src: url("../Fonts/IRANSans/IRANSans-web.ttf") format("ttf"),url("../Fonts/IRANSans/IRANSans-web.woff") format("woff");
+      font-weight: 500;
+}
+@font-face {
+    font-family: Yekan;
+    src: url("../Fonts/yekan/Yekan.eot");
+    src: url("../Fonts/yekan/Yekan.ttf") format("ttf"),url("../Fonts/yekan/Yekan.woff") format("woff");
+    font-weight: 800;
+}
+.bg-img {
+    background: url(../Img/images/back-head.gif);
+    height: 400px;
+    background-color: rgb(4, 75, 35);
+    background-blend-mode: screen;
+    background-size: cover;
+   
+   
+}
+.font-list {
+    font-family: IranSans;
+    font-size: 15px;
+}
+.font-list li a {
+    color:  white;  
+    cursor: pointer;
+}
+.search-head {
+    font-family: IranSans;
+    border-radius: 20px;
+    padding: 15px;
+    font-size: 12px;
+}
+.icon-menu{
+    color: mintcream;
+    font-size: 33px;
+    border: 3px solid lightblue;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+.profile{
+    width: 110px; 
+    height: 30px;
+    background-color: rgb(219, 212, 212);
+    border-radius: 50px;
+}
+.name-pf{
+    font-family: IranSans;
+    font-size: 12px;
+    text-align: center;
+}
+.num{
+    font-family: Yekan;
+    font-size: 35px;
+    font-weight: bolder;
+    text-align: right;
+
+}
+.string {
+    font-family: Yekan;
+    font-size: 18px;
+    font-weight: bolder;
+    color: gray;
+    text-align: right;
+    
+}
+.btn-soccer{
+    background-color: #cddc39;
+    width: 100%;
+    padding: 10px;
+    border: 0px;
+
+}
+.btn-basketball{
+    background-color: #8bc34a;
+    width: 100%;
+    padding: 10px;
+    border: 0px;
+
+}
+.btn-volley{
+    background-color: #4caf50;
+    width: 100%;
+    padding: 10px;
+    border: 0px;
+
+}
+.btn-tenis{
+    background-color: #009688;
+    width: 100%;
+    padding: 10px;
+    border: 0px;
+}
+.head-live{
+    text-align: right;
+    font-family: Yekan;
+}
+.txt-live{
+    font-size: 14px;
+    color: white;
+    margin-right: 15px;
+    margin-top: 15px;
+    font-family: Yekan;
+}
+.head-best{
+    text-align: right;
+    font-family: Yekan;
+}
+.time-game{
+    font-family: Yekan;
+    font-size: 14px;
+}
+.num-chair{
+    font-family: Yekan ;
+    font-size: 14px;
+    text-align: right;
+}
+.time-chair{
+    font-family: Yekan ;
+    font-size: 14px;
+    text-align: right;
+}
+.social {
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    font-family: Yekan;
+}
+.head-table{
+    text-align: right;
+    font-family: Yekan;  
+}
+.table{
+    text-align: right;
+    font-family: Yekan;
+}
+.table tr:hover{
+    background-color: rgb(211, 234, 233);
+    color: rgb(36, 151, 146);
+ 
+}
+.logo-team  img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    margin-left: 5px;
+}
+.special-back{
+    background-image: url("../Img/images/back-special.jpg");
+    background-color: seagreen;
+    background-blend-mode: lighten;
+    background-size: cover;
+}
+.head-special{
+    text-align: right;
+    color: white;
+    font-family: Yekan;
+}
+.card-h{
+    text-align: right;
+    font-family: Yekan;
+    font-size: 20px;
+    font-weight: 900px;
+}
+.card-d{
+    text-align: right;
+    font-family: Yekan;
+    font-size: 15px;
+    color: gray;
+}
+.card-t{
+    text-align: right;
+    font-family: Yekan;
+    font-size: 15px;
+}
+.btn-c{
+    font-family: Yekan;
+    font-size: 15px;
+}
+.head-news{
+    font-family: Yekan;
+    text-align: right;
+}
+.footer-txt{
+    color: gray;
+    font-size: 13px;
+    font-family: Yekan;
+}
+.talkbubble {
+ 
+    height: 180px;
+    background: #282828;
+    position: relative;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+  }
+  .talkbubble:before {
+    content: "";
+    position: absolute;
+    right: 6%;
+    top: 180px;
+    width: 0;
+    height: 0;
+    border-top: 0px solid transparent;
+    border-right: 15px solid #282828;
+    border-bottom: 15px solid transparent;
+  }
+  .head-cm {
+      color: #30c04b;
+      text-align: right;
+      font-family: Yekan;
+      font-weight: bolder;
+  }
+  .body-cm{
+    color:white;
+    text-align: right;
+    font-family: Yekan;
+    font-weight: bolder;
+  }
+  .img-cm{
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+
+  }
+  .name-cm{
+      font-family: Yekan;
+      text-align: right;
+  }
+  .Subscribe{
+      background-image: url(../Img/images/bg-sub.gif);
+      background-size: cover;
+  }
+  .sub-text{
+      color: white;
+      font-family: Yekan;
+      font-weight: bolder;
+      text-align: right;
+
+  }
+  .mycustom {
+   
+    position: relative;
+    }
+    .mycustom input[type=text] {
+    border: none;
+    width: 350px;
+    padding-right: 10px;
+    text-align:right;
+    font-family: Yekan;
+    }
+    .mycustom .input-group-prepend {
+    position: absolute;
+    left: 2px;
+    top: 2px;
+    bottom: 2px;z-index:9;
+
+    }
+    .row-b{
+        text-align: right;
+        font-family: Yekan;
+        font-weight: bolder;
+        font-size: 18px;
+    }
+    .col-a{
+        text-align: right;
+        font-family: Yekan;
+        font-weight: bolder;
+        font-size: 18px; 
+    }
+    .rc-1{
+        color: black;
+        font-family: Yekan;
+        font-weight: bolder;
+        font-size: 18px; 
+    }
+
+    
+    /* media queries */
+    
+    @media only screen and ( min-width : 995px) {
+
+        .search-head {
+            font-family: IranSans;
+            border-radius: 20px;
+            padding: 4px;
+            font-size: 12px;
+        }
+            .font-list {
+            font-family: IranSans;
+            font-size: 14px;
+        }
+    
+    }
+    @media only screen and ( max-width : 500px) {
+        .mycustom input[type=text] {
+            border: none;
+            width: 300px;
+            padding-right: 10px;
+            text-align:right;
+            font-family: Yekan;
+        }
+    }
+
