@@ -52,6 +52,7 @@
     height: 30px;
     background-color: rgb(219, 212, 212);
     border-radius: 50px;
+    cursor: pointer;
 }
 .name-pf{
     font-family: IranSans;
