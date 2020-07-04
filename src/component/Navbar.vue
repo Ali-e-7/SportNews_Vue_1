@@ -1,5 +1,5 @@
 <template>
-    <div class="container-fluid bg-img">
+   <div class="container-fluid bg-img">
         <div class="container d-flex flex-column align-items-center justify-content-center flex-lg-row justify-content-lg-center p-0">
             <div class="col-12 col-lg-6">
                 <nav class="navbar navbar-expand-sm">
@@ -37,7 +37,7 @@
                             <i class='fas fa-user-circle' style='font-size:24px'></i>
                         </div>
                         <div class="name-pf mr-2 mt-1 ">
-                            <span> ثبت نام | ورود </span>
+                           <span> ثبت نام | ورود </span>
                         </div>
                     </div>
                 </nav>
