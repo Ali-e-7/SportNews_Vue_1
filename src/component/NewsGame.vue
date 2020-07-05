@@ -1,7 +1,7 @@
 <template>
         <div class="container d-flex mt-5 mb-0 flex-wrap">
         <div class="col-12 head-news">
-            <h3>مجله ورزشی</h3>
+            <h3>مجله های ورزشی</h3>
             <p> بریده هایی از وبلاگ و اخبار ورزشی تیک اسپرت</p>
         </div>
         <div class="col-12 col-md-6 col-lg-4 mt-2">
