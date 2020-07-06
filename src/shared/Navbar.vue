@@ -19,13 +19,14 @@
                         <ul
                             class="navbar-nav font-list d-flex flex-column align-items-center flex-md-row justify-content-md-center">
                             <li class="nav-item  mt-2 mr-1">
-                                <a class="nav-link" href="#">دسته بندی</a>
+                                <router-link to='/'>خانه</router-link>
                             </li>
                             <li class="nav-item mt-2 mr-1">
                                 <a class="nav-link" href="#"> باشگاه ها </a>
                             </li>
                             <li class="nav-item mt-2 mr-1">
-                                <a class="nav-link" href="#"> وبلاگ</a>
+                                
+                                <router-link to='/Weblog'>وبلاگ</router-link>
                             </li>
                             <li class="nav-item mt-2 mr-1">
                                 <a class="nav-link" href="#">ارتباط با ما</a>

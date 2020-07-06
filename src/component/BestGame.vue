@@ -1,5 +1,5 @@
 <template>
-        <div class="container mt-5 d-flex flex-wrap mb-5">
+    <div class="container mt-5 d-flex flex-wrap mb-5">
         <div class="col-12 border-top mt-5 mb-5">
             <h2 class="head-best mt-3">داغ ترین بازی ها</h2>
         </div>
