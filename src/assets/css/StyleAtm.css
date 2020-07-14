@@ -1,0 +1,79 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    direction: rtl;
+}
+@font-face {
+    font-family: IranSans;
+    src: url("../Fonts/IRANSans/IRANSans-web.eot");
+    src: url("../Fonts/IRANSans/IRANSans-web.ttf") format("ttf"),url("../Fonts/IRANSans/IRANSans-web.woff") format("woff");
+    font-weight: 500;
+}
+@font-face {
+  font-family: Yekan;
+  src: url("../Fonts/yekan/Yekan.eot");
+  src: url("../Fonts/yekan/Yekan.ttf") format("ttf"),url("../Fonts/yekan/Yekan.woff") format("woff");
+  font-weight: 800;
+}
+.bg-full{
+    background: url(../Img/images/back-head.gif);
+    background-color: rgb(4, 75, 35);
+    background-blend-mode: screen;
+    background-size: cover;
+}
+.R-C{
+    background-color: white;
+    border-radius: 10px;
+}
+.MsgLogIn {
+    font-family: Yekan;
+    background-color: #e5424d;
+    border-radius: 10px;
+    color: white;
+}
+.Cost {
+    font-family: Yekan;
+
+}
+.TypePort{
+    font-family: Yekan;
+    width: 90%;
+}
+.zarin .btn{
+    background-color:#eaeaea ;
+    color:#b9b9b9;
+}
+.saman .btn{
+    background-color:#eaeaea ;
+    color:#b9b9b9;
+}
+.redwallet .btn{
+    background-color:#edafaf ;
+    color:white;
+}
+.saman{
+    box-shadow: 1px 1px 3px 1px gray;
+}
+.zarin{
+    box-shadow: 1px 1px 3px 1px gray;
+}
+.wallet {
+    box-shadow: 1px 1px 3px 1px gray;
+}
+.redwallet {
+    background-color: #ffe3e3;
+    color: #edafaf;
+    box-shadow: 1px 1px 3px 1px gray;
+}
+
+.Confirm {
+    background-color: #30c070;
+    color :white;
+    font-family: Yekan;
+    text-align: right;
+}
+.sum {
+    font-family: Yekan;
+    text-align: right;
+}

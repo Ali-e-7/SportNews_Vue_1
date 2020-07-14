@@ -1,9 +1,7 @@
 <template>
     <div>
-    <!------------ ROW_1 ------------>
-
-    <!------------ ROW_2 ------------>
-       
+        <bookmark></bookmark>
+        <areareserve></areareserve>
     </div>
 </template>
 
@@ -13,7 +11,7 @@ import Area from '../component-reserve/Area.vue'
 export default {
     components : {
         bookmark : BookMark,
-        area : Area,
+        areareserve : Area
     }
     
 }

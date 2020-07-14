@@ -40,10 +40,10 @@
                             <i class="fab fa-telegram ml-1" style="font-size:20px"></i>
                         </div>
                         <div class="col-12 mt-2 mt-lg-0 col-lg-6">
-                            <a href="" class="btn btn-success m-0 d-flex justify-content-between align-items-center">
+                            <router-link to="/Reserve" class="btn btn-success m-0 d-flex justify-content-between align-items-center">
                                 <p class="pt-1 ">خرید بلیط</p>
                                 <i class="fa fa-angle-left mr-auto"></i>
-                            </a>
+                            </router-link>
                         </div>
                     </div>
                 </div>
@@ -87,10 +87,10 @@
                             <i class="fab fa-telegram ml-3 ml-lg-1" style="font-size:20px"></i>
                         </div>
                         <div class="col-12 mt-2 mt-lg-0 col-lg-6">
-                            <a href="" class="btn btn-success m-0 d-flex justify-content-end align-items-center">
+                            <router-link to="/Reserve" class="btn btn-success m-0 d-flex justify-content-between align-items-center">
                                 <p class="pt-1 ">خرید بلیط</p>
                                 <i class="fa fa-angle-left mr-auto"></i>
-                            </a>
+                            </router-link>
                         </div>
                     </div>
                 </div>

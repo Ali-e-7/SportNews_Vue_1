@@ -5,16 +5,16 @@
     direction: rtl;
 }
 @font-face {
-      font-family: IranSans;
-      src: url("../Fonts/IRANSans/IRANSans-web.eot");
-      src: url("../Fonts/IRANSans/IRANSans-web.ttf") format("ttf"),url("../Fonts/IRANSans/IRANSans-web.woff") format("woff");
-      font-weight: 500;
+    font-family: IranSans;
+    src: url("../Fonts/IRANSans/IRANSans-web.eot");
+    src: url("../Fonts/IRANSans/IRANSans-web.ttf") format("ttf"),url("../Fonts/IRANSans/IRANSans-web.woff") format("woff");
+    font-weight: 500;
 }
 @font-face {
-    font-family: Yekan;
-    src: url("../Fonts/yekan/Yekan.eot");
-    src: url("../Fonts/yekan/Yekan.ttf") format("ttf"),url("../Fonts/yekan/Yekan.woff") format("woff");
-    font-weight: 800;
+  font-family: Yekan;
+  src: url("../Fonts/yekan/Yekan.eot");
+  src: url("../Fonts/yekan/Yekan.ttf") format("ttf"),url("../Fonts/yekan/Yekan.woff") format("woff");
+  font-weight: 800;
 }
 .bg-img {
     background: url(../Img/images/back-head.gif);
@@ -52,7 +52,6 @@
     height: 30px;
     background-color: rgb(219, 212, 212);
     border-radius: 50px;
-    cursor: pointer;
 }
 .name-pf{
     font-family: IranSans;
@@ -155,7 +154,7 @@
     margin-left: 5px;
 }
 .special-back{
-    background-image: url("../Img/images/back-special.jpg");
+    background-image: url("../Img/images/images/back-special.jpg");
     background-color: seagreen;
     background-blend-mode: lighten;
     background-size: cover;
@@ -284,7 +283,210 @@
         font-weight: bolder;
         font-size: 18px; 
     }
+    /* --------------------------- Reserve_Style ----------------------------- */
+    .col-r{
+        background-color: #f1f1f1;
+    }
+    .BookMarcIcon{
+        width: 36px;
+        background-color: #a8a8a8;
+        padding: 10px;
+        border-radius: 50%;
+    }
+    .cricle{
+        width: 7px;
+        height: 7px;
+        background-color: #c8c8c8;
+        border-radius: 50%;
+        margin-left: 5px;
+    }
+    .card-text {
+        font-family: Yekan;
+        text-align: right;
+        border-bottom: 1px solid #cccccc;
+        padding: 5px;
+    }
+    .star{
+        font-family: Yekan;
+        text-align: right;
+        font-size: 12px;
+        background-color: #f1f1f1;
+        border-radius: 5px;
+        margin-bottom: 10px;
+        color: #6a6a6a;
+    }
+    .star-num{
+        text-align: center;
+    }
+    .MsgLogIn {
+        font-family: Yekan;
+        background-color: #e5424d;
+        border-radius: 10px;
+        color: white;
+    }
+    .SelectTeam {
+        text-align: right;
+        font-family: Yekan;
+        
+    }
+    .Rteam{
+        
+        background-color: #bee9c5;
+        color: #00924c;
+        border-radius:10px ;
+        padding: 10px; 
 
+    }
+    .lteam{
+        background-color: #e1e1e1;
+        border-radius:10px ;
+        padding: 10px; 
+        
+    }
+    .border-dotted{
+        border-bottom: 4px dotted #bababa;
+    }
+
+    .Area-A {
+        width: 35px;
+        height: 35px;
+        border-radius: 50%;
+        color: white;
+        background-color: black;
+        text-align: center;
+        position: absolute;
+        top:290px;
+        right: 38%;
+    }
+    .Area-B {
+        width: 35px;
+        height: 35px;
+        border-radius: 50%;
+        color: white;
+        background-color: black;
+        text-align: center;
+        position: absolute;
+        top:420px;
+        right: 33%;
+    }
+    .Area-C {
+        width: 35px;
+        height: 35px;
+        border-radius: 50%;
+        color: white;
+        background-color: black;
+        text-align: center;
+        position: absolute;
+        top:420px;
+        right: 23%;
+    }
+    .Area-D {
+        width: 35px;
+        height: 35px;
+        border-radius: 50%;
+        color: white;
+        background-color: black;
+        text-align: center;
+        position: absolute;
+        top:565px;
+        right: 38%;
+    }
+    .txt-btn{
+        text-align: right;
+        font-family: Yekan;
+        margin-right: 15px;
+    }
+    .style-btn{
+        color: #444444;
+        background-color: #e1e1e1;
+    }
+    .select-btn{
+        background-color: #bee9c5;
+        color: #00924c;
+    }
+    .selected {
+        background-color: #30c070;
+        color: white;
+        text-align: right;
+        font-family: Yekan;
+        padding: 0px;
+    }
+    .Price{
+        text-align: right;
+        font-family: Yekan;
+    }
+    .Price-finally {
+        font-family: Yekan;
+        color: #009966;
+    }
+    .submit {
+        font-family: Yekan;
+    }
+    .Seat{
+        width: 43px;
+    }
+    .msg-box {
+        background-color: #f3f3f3;
+        font-family: Yekan;
+        text-align: right;
+        color: #6a6a6a;
+        border-radius: 10px;
+        margin-top: 10px;
+    }
+    .msg-box-r {
+        font-family: Yekan;
+        text-align: right;
+        color: #6a6a6a;
+        margin-top: 10px;
+    }
+    .OptionBox {
+        background-color: #e9e9e9;
+        color: #6a6a6a;
+        font-family: Yekan;
+        font-size: 12px;
+    }
+    .AnswerCm{
+        font-family: Yekan;
+        color: green;
+    }
+    .Confirm {
+        background-color: #30c070;
+        color :white;
+        font-family: Yekan;
+        text-align: right;
+    }
+    .sum {
+        font-family: Yekan;
+        text-align: right;
+    }
+    .SignInLogo {
+        font-family: Yekan;
+        font-size: 12px;
+        color: white;
+        text-align: center;
+    }
+    .SignInRight {
+        font-family: Yekan;
+        font-size: 12px;
+        text-align: right;
+        
+    }
+    .SignInLeft {
+        background-image: url(../Img/images/SignLog.png);
+        background-blend-mode: screen;
+        background-size: cover;
+    
+    }
+    .SignInBtn{
+        font-family: Yekan;
+        font-size: 5px;
+    }
+    .txt-error {
+        background-color: #ffd7d7;
+        border-bottom: 2px solid #e62727;
+        color: #e62727;
+        text-align: left;
+    }
     
     /* media queries */
     

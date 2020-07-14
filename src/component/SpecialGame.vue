@@ -24,9 +24,9 @@
                         </div>
                         <div class="footer d-flex flex-wrap mt-2">
                             <div class="col-12 ">
-                                <a href="" class="btn btn-success btn-block">
-                                    <p>خرید بلیط</p>
-                                </a>
+                                <router-link to="/Reserve" class="btn btn-success btn-block ">
+                                    <p class="pt-1 ">خرید بلیط</p>
+                                </router-link>
                             </div>
                         </div>
                     </div>
@@ -52,9 +52,9 @@
                         </div>
                         <div class="footer d-flex flex-wrap mt-2">
                             <div class="col-12 ">
-                                <a href="" class="btn btn-success btn-block">
-                                    <p>خرید بلیط</p>
-                                </a>
+                                <router-link to="/Reserve" class="btn btn-success btn-block ">
+                                    <p class="pt-1 ">خرید بلیط</p>
+                                </router-link>
                             </div>
                         </div>
                     </div>
@@ -79,9 +79,9 @@
                         </div>
                         <div class="footer d-flex flex-wrap mt-2">
                             <div class="col-12 ">
-                                <a href="#" class="btn btn-success btn-block">
-                                    <p>خرید بلیط</p>
-                                </a>
+                                <router-link to="/Reserve" class="btn btn-success btn-block ">
+                                    <p class="pt-1 ">خرید بلیط</p>
+                                </router-link>
                             </div>
                         </div>
                     </div>

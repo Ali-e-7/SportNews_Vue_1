@@ -1,7 +1,13 @@
 import Index from './pages/Index.vue'
-import Resetve from './pages/Reserve.vue'
+import Reserve from './pages/Reserve.vue'
 
-export const RoutNews = [{
-    path: '/',
-    component : Index,
-}];
+export const RoutNews = [
+    {
+        path: '/',
+        component : Index,
+    },
+    {
+        path : '/Reserve',
+        component : Reserve
+    }
+];

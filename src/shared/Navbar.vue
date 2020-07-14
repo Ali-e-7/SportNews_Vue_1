@@ -25,7 +25,6 @@
                                 <a class="nav-link" href="#"> باشگاه ها </a>
                             </li>
                             <li class="nav-item mt-2 mr-1">
-                                
                                 <router-link to='/Weblog'>وبلاگ</router-link>
                             </li>
                             <li class="nav-item mt-2 mr-1">
