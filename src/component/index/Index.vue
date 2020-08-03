@@ -3,7 +3,7 @@
         <ticket-about></ticket-about>
         <live-game></live-game>
         <best-game></best-game>
-        <data-game></data-game>
+        <date-game></date-game>
         <special-game></special-game>
         <news-game></news-game>
         <comments-user></comments-user>
@@ -15,15 +15,15 @@
 
 <script>
 
-import Ticket from '../component/Ticket.vue'
-import LiveGame from '../component/LiveGame'
-import BestGame from '../component/BestGame'
-import DateGame from '../component/DateGame'
-import SpecialGame from '../component/SpecialGame.vue'
-import NewsGame from '../component/NewsGame.vue'
-import CommentsUser from '../component/CommentsUser.vue'
-import SponserWeb from '../component/SponserWeb.vue'
-import SubscribeWeb from '../component/SubscribeWeb.vue'
+import Ticket from './indexItems/Ticket.vue'
+import LiveGame from './indexItems/LiveGame.vue'
+import BestGame from './indexItems/BestGame.vue'
+import DateGame from './indexItems/DateGame.vue'
+import SpecialGame from './indexItems/SpecialGame.vue'
+import NewsGame from './indexItems/NewsGame.vue'
+import CommentsUser from './indexItems/CommentsUser.vue'
+import SponserWeb from './indexItems/SponserWeb.vue'
+import SubscribeWeb from './indexItems/SubscribeWeb.vue'
 
 
 export default {

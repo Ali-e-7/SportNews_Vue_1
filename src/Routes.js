@@ -1,5 +1,5 @@
-import Index from './pages/Index.vue'
-import Reserve from './pages/Reserve.vue'
+import Index from './component/index/Index.vue'
+import Reserve from './component/reserve/Reserve.vue'
 
 export const RoutNews = [
     {

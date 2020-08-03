@@ -9,8 +9,8 @@
                         <i class='fas fa-bookmark' style='font-size:20px;color:white'></i>
                     </section>
                     <section class="BookMarkTeam d-flex justify-content-around p-5 mb-5">
-                        <img src="../assets/Img/images/esteq.png" alt="esteqlal-pic">
-                        <img src="../assets/Img/images/pers.png" alt="perspolic-pic">
+                        <img src="../../../assets/Img/images/esteq.png" alt="esteqlal-pic">
+                        <img src="../../../assets/Img/images/pers.png" alt="perspolic-pic">
                     </section>
                     <section class="pages d-flex justify-content-center">
                         <div class="cricle"></div>
@@ -58,7 +58,7 @@
                             </section>
                         </div>
 
-                        <a href="../assets/SelectAtm.html" class="btn btn-success d-block d-flex justify-content-between mb-3">
+                        <a href="../../../assets/SelectAtm.html" class="btn btn-success d-block d-flex justify-content-between mb-3">
 
                             <span> خرید بلیط</span>
                             <i class='fas fa-angle-down'></i>
@@ -105,7 +105,7 @@
 
 
                         <div class="cm d-flex flex-wrap  border rounded p-3 mt-4">
-                            <img src="../assets/Img/images/davidbeckham2018.jpg" class=" rounded-circle ml-3"
+                            <img src="../../../assets/Img/images/davidbeckham2018.jpg" class=" rounded-circle ml-3"
                                 style="width:55px;">
                             <h5 class="ml-3" style="font-family: Yekan;">علی ابراهیمی</h5>
                             <p style="color: #6a6a6a;font-family: Yekan;">نظرت برامون مهمه.امتیاز و نظرات شما کیفیت این
@@ -128,7 +128,7 @@
 
                         <div class="cm d-flex flex-wrap border rounded p-3 mt-4">
 
-                            <img src="../assets/Img/images/davidbeckham2018.jpg" class=" rounded-circle ml-3"
+                            <img src="../../../assets/Img/images/davidbeckham2018.jpg" class=" rounded-circle ml-3"
                                 style="width:55px;">
                             <h5 class="ml-3" style="font-family: Yekan;">محمد افضلی</h5>
                             <p style="color: #6a6a6a;font-family: Yekan;">| 22 اردیبهشت 96</p>
@@ -162,7 +162,7 @@
 
                         <div class="cm d-flex flex-wrap border rounded p-3 mt-4">
 
-                            <img src="../assets/Img/images/davidbeckham2018.jpg" class=" rounded-circle ml-3"
+                            <img src="../../../assets/Img/images/davidbeckham2018.jpg" class=" rounded-circle ml-3"
                                 style="width:55px;">
                             <h5 class="ml-3" style="font-family: Yekan;">علی ابراهیمی</h5>
                             <p style="color: #6a6a6a;font-family: Yekan;">| 22 اردیبهشت 96</p>

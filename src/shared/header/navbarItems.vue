@@ -1,10 +1,9 @@
 <template>
-   <div class="container-fluid bg-img">
-        <div class="container d-flex flex-column align-items-center justify-content-center flex-lg-row justify-content-lg-center p-0">
-            <div class="col-12 col-lg-6">
+    <div class="container d-flex flex-column align-items-center justify-content-center flex-lg-row justify-content-lg-center p-0">
+         <div class="col-12 col-lg-6">
                 <nav class="navbar navbar-expand-sm">
                     <form class="form-inline d-flex flex-column align-items-center justify-content-center flex-md-row justify-content-md-center" action="/action_page.php">
-                        <img src="../assets/Img/images/Logo.png" alt="">
+                        <img src="../../assets/Img/images/Logo.png" alt="">
                         <input class="form-control mr-2 mr-lg-4 mt-3 mt-md-0 search-head" type="text" placeholder="سریع جستجو کن!">
                     </form>
                 </nav>
@@ -32,7 +31,7 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="profile mr-5 mt-1 pt-1 d-flex flex-md-row justify-content-md-center">
+                    <div class="profile mr-5 mt-1 pt-1 d-flex flex-md-row justify-content-md-center"  data-toggle="modal" data-target="#myModal"  v-on:click="ShowFromSingIn">
                         <div class="img-pf ">
                             <i class='fas fa-user-circle' style='font-size:24px'></i>
                         </div>
@@ -41,16 +40,40 @@
                         </div>
                     </div>
                 </nav>
-            </div>
-        </div>   
+        </div>
+         <sign-in v-if="show"></sign-in> 
+       <!-- <p class="bg-danger" v-show="show">ali salam</p>-->
     </div>
 </template>
 
-
-
-
 <script>
+import SignIn from "./signIn.vue"
 export default {
-    
+    data () {
+       return {
+           show : true
+       }
+    },
+    components : {
+        "sign-in" : SignIn
+    },
+    methods : { 
+        ShowFromSingIn : function () {
+            this.show = !this.show
+            
+        }
+
+    },
+    props:[
+        'rejister'
+    ]
 }
 </script>
+
+
+
+<style>
+    .profile {
+        cursor: pointer;
+    }
+</style>

@@ -26,7 +26,7 @@
                         <p class="mt-4 " style="text-align: right;font-family: Yekan;">2.کدام ناحیه از ورزشگاه؟</p>
                     </span>
                     <div class="PicStadium mt-5">
-                        <img src="../assets/Img/images/Area.jpg" class="rounded mx-auto d-block w-50" alt="AreaStadium">
+                        <img src="../../../assets/Img/images/Area.jpg" class="rounded mx-auto d-block w-50" alt="AreaStadium">
                         <div class="Area-A">
                             <h3>A</h3>
                         </div>
@@ -81,57 +81,57 @@
                     </span>
                     <div class="img-seat mt-5">
                         <section class="row-1">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatr.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatr.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatr.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatr.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatr.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatr.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat" alt="">
                         </section>
                         <section class="row-2 d-flex flex-wrap justify-content-center mt-3">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat ml-1" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat ml-1" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat ml-1" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat ml-1" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat ml-1" alt="">
-                            <img src="../assets/Img/images/seatg.jpg" class="Seat ml-1" alt="">
-                            <img src="../assets/Img/images/seatg.jpg" class="Seat ml-1" alt="">
-                            <img src="../assets/Img/images/seatg.jpg" class="Seat ml-1" alt="">
-                            <img src="../assets/Img/images/seatg.jpg" class="Seat ml-1" alt="">
-                            <img src="../assets/Img/images/seatg.jpg" class="Seat ml-1" alt="">
-                            <img src="../assets/Img/images/seatg.jpg" class="Seat ml-1" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat ml-1" alt="">
-                            <img src="../assets/Img/images/seatr.jpg" class="Seat ml-1" alt="">
-                            <img src="../assets/Img/images/seatr.jpg" class="Seat ml-1" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat ml-1" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat ml-1" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat ml-1" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat ml-1" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat ml-1" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat ml-1" alt="">
+                            <img src="../../../assets/Img/images/seatg.jpg" class="Seat ml-1" alt="">
+                            <img src="../../../assets/Img/images/seatg.jpg" class="Seat ml-1" alt="">
+                            <img src="../../../assets/Img/images/seatg.jpg" class="Seat ml-1" alt="">
+                            <img src="../../../assets/Img/images/seatg.jpg" class="Seat ml-1" alt="">
+                            <img src="../../../assets/Img/images/seatg.jpg" class="Seat ml-1" alt="">
+                            <img src="../../../assets/Img/images/seatg.jpg" class="Seat ml-1" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat ml-1" alt="">
+                            <img src="../../../assets/Img/images/seatr.jpg" class="Seat ml-1" alt="">
+                            <img src="../../../assets/Img/images/seatr.jpg" class="Seat ml-1" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat ml-1" alt="">
                         </section>
                         <section class="row-3 mt-3">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatr.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatr.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatr.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatr.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat" alt="">
-                            <img src="../assets/Img/images/seatw.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatr.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatr.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatr.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatr.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat" alt="">
+                            <img src="../../../assets/Img/images/seatw.jpg" class="Seat" alt="">
                         </section>
                     </div>
                 </div>
@@ -141,8 +141,8 @@
                 <div class="BookMarkPanel">
                     <div class="card ">
                         <div class=" d-flex justify-content-between p-2 p-lg-4 mx-2 border-bottom">
-                            <img src="../assets/Img/images/pers.gif">
-                            <img src="../assets/Img/images/estq.gif">
+                            <img src="../../../assets/Img/images/pers.gif">
+                            <img src="../../../assets/Img/images/estq.gif">
                         </div>
                         <span class="d-flex justify-content-between p-3">
                             <h5>ورزشگاه آزادی</h5>
@@ -167,7 +167,7 @@
                             <h5 style="color: darkgreen;">60.000 تومان</h5>
                         </span>
 
-                        <a href="../assets/SelectAtm.html" class="btn btn-success d-block m-2">پرداخت</a>
+                        <a href="../../../assets/SelectAtm.html" class="btn btn-success d-block m-2">پرداخت</a>
                     </div>
                 </div>
             </div>

@@ -6,8 +6,8 @@
 </template>
 
 <script>
-import BookMark from '../component-reserve/BookMark.vue'
-import Area from '../component-reserve/Area.vue'
+import BookMark from './reserveItems/BookMark.vue'
+import Area from './reserveItems/Area.vue'
 export default {
     components : {
         bookmark : BookMark,

@@ -6,19 +6,19 @@
         </div>
         <div class="body-partner d-flex justify-content-lg-between flex-wrap ">
             <a href="#" class="pic mt-4 ml-5">
-                <img src="../assets/Img/images/snap.gif" alt="">
+                <img src="../../../assets/Img/images/snap.gif" alt="">
             </a>
             <a href="#" class="pic mt-4 ml-5">
-                <img src="../assets/Img/images/danero.gif" alt="">
+                <img src="../../../assets/Img/images/danero.gif" alt="">
             </a>
             <a href="#" class="pic mt-4 ml-5">
-                <img src="../assets/Img/images/ponisha.gif" alt="">
+                <img src="../../../assets/Img/images/ponisha.gif" alt="">
             </a>
             <a href="#" class="pic mt-4 ml-5">
-                <img src="../assets/Img/images/ihome.gif" alt="">
+                <img src="../../../assets/Img/images/ihome.gif" alt="">
             </a>
             <a href="#" class="pic mt-4 ml-5">
-                <img src="../assets/Img/images/avalmarket.gif" alt="">
+                <img src="../../../assets/Img/images/avalmarket.gif" alt="">
             </a>
         </div>
     </div>

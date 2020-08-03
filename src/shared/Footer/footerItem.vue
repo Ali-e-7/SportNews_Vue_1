@@ -2,8 +2,8 @@
     <div class="container footer mt-5 pt-4 d-flex flex-wrap">
         <div class="col-12 mb-5 col-md-6 col-lg-4 d-flex flex-column justify-content-start align-items-start">
             <section class="row-a">
-            <img src="../assets/Img/images/berand-1.gif" alt="">
-           </section>
+            <img src="../../assets/Img/images/berand-1.gif" alt="">
+            </section>
             <section class="row-b mt-5 mb-3">
                 <a href="#">
                     <p>info@ticketsport.ir</p>
@@ -60,7 +60,7 @@
                 </a>
             </section>
         </div>
-         <div class="col-12 mb-5 col-md-6 col-lg-4 d-flex flex-column justify-content-start align-items-start justify-content-lg-end align-items-end">
+        <div class="col-12 mb-5 col-md-6 col-lg-4 d-flex flex-column justify-content-start align-items-start justify-content-lg-end align-items-end">
            <section class="rc-1">
                 <a href="">
                     <h5>دانلود نرم افزارهای تیکت اسپرت</h5><a href=""></a>
@@ -73,9 +73,9 @@
                 <a href="#"><i class="fab fa-windows mr-4 " style="font-size:30px;color: gray;"></i></a>
             </section>
             <section class="rc-3 mt-5">
-                <a href="#"><img src="../assets/Img/images/foter1 (1).gif" alt=""></a>
-                <a href="#"><img src="../assets/Img/images/foter1 (2).gif" alt=""></a>
+                <a href="#"><img src="../../assets/Img/images/foter1 (1).gif" alt=""></a>
+                <a href="#"><img src="../../assets/Img/images/foter1 (2).gif" alt=""></a>
             </section>
         </div>
-    </div> 
+    </div>
 </template>
