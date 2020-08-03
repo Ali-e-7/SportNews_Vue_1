@@ -57,11 +57,9 @@
                                 </span>
                             </section>
                         </div>
-
-                        <a class="btn btn-success d-block d-flex justify-content-between mb-3">
-                            <router-link to='/selectATM'>پرداخت</router-link>
-                            <i class='fas fa-angle-down'></i>
-                        </a>
+                        <router-link to='/selectATM'>
+                            <a class="btn btn-success d-block d-flex justify-content-between mb-3">پرداخت<i class='fas fa-angle-down'></i></a>
+                        </router-link>
                         <div class="social d-flex justify-content-between align-items-center p-1">
                             <span>باز نشر کنید</span>
                             <span>

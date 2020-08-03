@@ -166,10 +166,9 @@
                             <h5 style="color: darkgreen;">مجموع هزینه :</h5>
                             <h5 style="color: darkgreen;">60.000 تومان</h5>
                         </span>
-
-                        <a  class="btn btn-success d-block m-2">
-                            <router-link to='/selectATM'>پرداخت</router-link>
-                        </a>
+                        <router-link to='/selectATM'>
+                            <a  class="btn btn-success d-block m-2">پرداخت</a> 
+                        </router-link>
                     </div>
                 </div>
             </div>

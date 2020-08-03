@@ -28,7 +28,7 @@
                         </td>
                         <td>{{ item.date}}</td>
                         <td>{{ item.time}}</td>
-                        <td> {{item.reserve}} </td>
+                        <td class="tdpointer"> {{item.reserve}} </td>
                     </tr>
                 </tbody>
             </table>
@@ -84,8 +84,6 @@ export default {
             TableGame : tableGame,
         }
     },
-
-
 }
 </script>
 
@@ -93,5 +91,8 @@ export default {
 <style>
 .tdClass {
     text-align: left;
+}
+.tdpointer {
+    cursor: pointer;
 }
 </style>
