@@ -167,7 +167,9 @@
                             <h5 style="color: darkgreen;">60.000 تومان</h5>
                         </span>
 
-                        <a href="../../../assets/SelectAtm.html" class="btn btn-success d-block m-2">پرداخت</a>
+                        <a  class="btn btn-success d-block m-2">
+                            <router-link to='/selectATM'>پرداخت</router-link>
+                        </a>
                     </div>
                 </div>
             </div>

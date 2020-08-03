@@ -10,7 +10,7 @@
                     <tr v-for="item in TableGame" :key="item">
                         <td>
                             <div class="logo-team">
-                                <img :src="logoOne" alt="">
+                                <img :src="item.logoOne" alt="">
                             </div>
                             
                         </td>
@@ -23,7 +23,7 @@
                         </td>
                         <td>
                             <div class="logo-team ">
-                                <img :src="logoTwo" alt="">
+                                <img :src="item.logoTwo" alt="">
                             </div>
                         </td>
                         <td>{{ item.date}}</td>
@@ -39,37 +39,37 @@
 <script>
 const tableGame = [
                 {
-                    logoOne:"../../../assets/Img/images/pey.jpg" ,
+                    logoOne:"../../../src/assets/Img/images/pey.jpg" ,
                     teamOne : "پیکان" ,  
                     teamTwo : "پدیده خراسان",
-                    logoTwo : "../../../assets/Img/images/padide.png" , 
+                    logoTwo : "../../../src/assets/Img/images/padide.png" , 
                     date : "1396/05/06" , 
                     time : "16:00" , 
                     reserve : "ظرفیت تکمیل" 
                 },
                 {
-                    logoOne:"../../../assets/Img/images/sanat.png" ,
+                    logoOne:"../../../src/assets/Img/images/sanat.png" ,
                     teamOne : "صنعت نفت آبادان" ,  
                     teamTwo : "استقلال تهران",
-                    logoTwo : "../../../assets/Img/images/esteq.png" , 
+                    logoTwo : "../../../src/assets/Img/images/esteq.png" , 
                     date : "1396/05/07" , 
                     time : "17:00" , 
                     reserve : "دریافت بلیت بازی" 
                 },
                 {
-                    logoOne:"../../../assets/Img/images/siah.png" ,
+                    logoOne:"../../../src/assets/Img/images/siah.png" ,
                     teamOne : "سیاه جامگان" ,  
                     teamTwo : "ذوب آهن اصفهان",
-                    logoTwo : "../../../assets/Img/images/siah.png" , 
+                    logoTwo : "../../../src/assets/Img/images/siah.png" , 
                     date : "1396/05/08" , 
                     time : "18:00" , 
                     reserve : "دریافت بلیت بازی" 
                 },
                 {
-                    logoOne:"../../../assets/Img/images/estjonob.jpg" ,
+                    logoOne:"../../../src/assets/Img/images/estjonob.jpg" ,
                     teamOne : "استقلال اهواز" ,  
                     teamTwo : "تراکتور سازی تبریز",
-                    logoTwo : "../../../assets/Img/images/teraktor.jpg" , 
+                    logoTwo : "../../../src/assets/Img/images/teraktor.jpg" , 
                     date : "1396/05/09" , 
                     time : "19:00" , 
                     reserve : "ظرفیت تکمیل" 
@@ -82,7 +82,6 @@ export default {
     data () {
         return {
             TableGame : tableGame,
-            srcAddress : ""
         }
     },
 

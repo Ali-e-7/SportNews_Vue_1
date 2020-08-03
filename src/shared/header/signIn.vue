@@ -1,9 +1,9 @@
 <template>
     <div class="modal fade" id="myModal">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-body p-0">
-                    <div class="SignIn d-flex justify-content-around">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-body p-0">
+                            <div class="SignIn d-flex justify-content-around">
                         <div class="SignInRight col-6 p-4 d-flex flex-column align-items-around justify-content-between border-left">
                             <div style="text-align: right;">
                                 <i class="fas fa-window-close"></i>

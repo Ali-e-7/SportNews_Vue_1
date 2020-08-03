@@ -58,11 +58,9 @@
                             </section>
                         </div>
 
-                        <a href="../../../assets/SelectAtm.html" class="btn btn-success d-block d-flex justify-content-between mb-3">
-
-                            <span> خرید بلیط</span>
+                        <a class="btn btn-success d-block d-flex justify-content-between mb-3">
+                            <router-link to='/selectATM'>پرداخت</router-link>
                             <i class='fas fa-angle-down'></i>
-
                         </a>
                         <div class="social d-flex justify-content-between align-items-center p-1">
                             <span>باز نشر کنید</span>

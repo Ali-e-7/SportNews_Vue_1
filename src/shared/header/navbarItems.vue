@@ -41,8 +41,6 @@
                     </div>
                 </nav>
         </div>
-         <sign-in v-if="show"></sign-in> 
-       <!-- <p class="bg-danger" v-show="show">ali salam</p>-->
     </div>
 </template>
 
@@ -60,13 +58,14 @@ export default {
     methods : { 
         ShowFromSingIn : function () {
             this.show = !this.show
+            this.$emit('ShowForm',this.show);
             
         }
 
     },
-    props:[
-        'rejister'
-    ]
+    props:{
+        form : {type: Boolean}
+    }
 }
 </script>
 
